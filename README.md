@@ -52,5 +52,5 @@ This project is licensed under the **MIT License**.
 ## ⚠️ Disclaimer
 
 - This is an unofficial tool created for educational and productivity purposes.
-- Timetable data is based on the schedule effective from **04/08/2568 to 30/09/2568**, but will update if there's an official update via [CU POP BUS Facebook](https://www.facebook.com/search/top?q=cu%20pop%20bus).
+- Timetable data is based on the schedule effective from **04/08/2568 to 30/09/2568**, but will update if there's an official update via [CU POP BUS Facebook](https://www.facebook.com/CUPOPBUS?).
 - Actual arrival times may vary due to traffic conditions.
