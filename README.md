@@ -21,9 +21,9 @@ Instead of navigating through large image files, this shortcut utilizes an embed
 1. Ensure you have the **Shortcuts** app installed on your iPhone or iPad.
 2. Click the link below to add the shortcut to your library:
 
-   <a href="https://www.icloud.com/shortcuts/11a4ec7047804a119aabc2d55ee05d27"><img src="https://img.shields.io/badge/Download-Add%20to%20Shortcuts-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Shortcut"></a>
+   <a href="https://www.icloud.com/shortcuts/4facbd4107a94ca4a1faedc3c0fc0774"><img src="https://img.shields.io/badge/Download-Add%20to%20Shortcuts-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Shortcut"></a>
 
-   **[Or click here for the direct iCloud Link](https://www.icloud.com/shortcuts/11a4ec7047804a119aabc2d55ee05d27)**
+   **[Or click here for the direct iCloud Link](https://www.icloud.com/shortcuts/4facbd4107a94ca4a1faedc3c0fc0774)**
 
 ## 🛠 How It Works
 
@@ -33,6 +33,7 @@ This project demonstrates how to build efficient shortcuts using data structures
 2. **Logic Flow:**
    - The shortcut extracts the current day (`EEE`), hour (`HH`), and minute (`mm`).
    - It calculates the target hour (Current Hour + 1 if Minute > 55).
+   - See if current day is Saturday, Sunday, or weekday.
    - It performs a **Dictionary Lookup**: `Bus Line` → `Day Type` → `Hour`.
 3. **Display:** The result is parsed and alerted to the user.
 
